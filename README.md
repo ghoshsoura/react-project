@@ -12,21 +12,29 @@ Here are some of the benefits of using React:
 
 So when the problem is about building an interactive user-interface, react is the first choice for many developers as it provides great flexibilty. But to understand react, we need to have a good understanding of the following - 
 > What is HTML
+
 > What is CSS
+
 > What is DOM
+
 > What is ES6
+
 > What is Node.js
+
 > What is npm
 
 Now coming to the project, to create a react project we need some basic command prompts - 
 # To create a React App: - 
-> npx create-react-app [ProjectName]
-This will install several dependencies and modules and will take a few minutes to complete. Also it asks for additional components if you want to include in your project. After the process is completed, we should navigate to the project directory that is just created by normal cd command.
+## npx create-react-app [ProjectName]
+
+> This will install several dependencies and modules and will take a few minutes to complete. Also it asks for additional components if you want to include in your project. After the process is completed, we should navigate to the project directory that is just created by normal cd command.
 
 # To start a React App: - 
-> npm start
-This will start an application running on localhost 3000(default). By default, the server side application page loads up and if you change your file logic, it will render accordingly.
+## npm start
+
+> This will start an application running on localhost 3000(default). By default, the server side application page loads up and if you change your file logic, it will render accordingly.
 
 # To install a Dependency: - 
 There may be case where we need some addtional dependencies for the project in order to execute the file. Then we can use 'npm' command to install dependencies - 
+
 > npm install [dependency name] or npm i [dependency name]
