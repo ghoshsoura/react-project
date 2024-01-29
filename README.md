@@ -35,6 +35,7 @@ Now coming to the project, to create a react project we need some basic command 
 > This will start an application running on localhost 3000(default). By default, the server side application page loads up and if you change your file logic, it will render accordingly.
 
 # To install a Dependency: - 
-There may be case where we need some addtional dependencies for the project in order to execute the file. Then we can use 'npm' command to install dependencies - 
+## npm install [dependency name] or npm i [dependency name
 
-> npm install [dependency name] or npm i [dependency name]
+>There may be case where we need some addtional dependencies for the project in order to execute the file. Then we can use 'npm' command to install dependencies. The above syntax will install all necesaary modules for that dependency and when finished installing, you can import relevant modules in your code. 
+
