@@ -39,3 +39,7 @@ Now coming to the project, to create a react project we need some basic command 
 
 >There may be case where we need some addtional dependencies for the project in order to execute the file. Then we can use 'npm' command to install dependencies. The above syntax will install all necesaary modules for that dependency and when finished installing, you can import relevant modules in your code. 
 
+> For more information about React, go to - [https://react.dev](url)
+
+# About Project: -
+Now let's get to the point where I will discuss about how I implemented this project using all necessary react dependencies. First, of all after creating the project, I created a component folder under which i created some typescript files to implement the logic step by step. 
